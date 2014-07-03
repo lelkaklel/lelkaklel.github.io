@@ -1,0 +1,28 @@
+.div_bar {
+    background-color: coral;
+    position: relative;
+    clear: both;
+    float: left;
+    left: 2em;
+    color: white;
+    padding: 0.5em 0.5em;
+    margin: 2px 0;
+    text-align: right;
+}
+
+.div_bar:hover {
+    opacity: 0.7;
+}
+
+.div_index {
+    color: brown;
+    text-align: left;
+    clear: both;
+    float: left;
+}
+
+.div_value {
+    color: white;
+    text-align: right;
+    float: right;
+}

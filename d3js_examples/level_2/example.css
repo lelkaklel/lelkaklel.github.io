@@ -1,0 +1,12 @@
+table {
+    border: 5px solid gray;  /* рамка вокруг таблицы */
+}
+
+td, th {
+    border: 2px solid gray;  /* рамка вокруг ячеек таблицы */
+    padding: 1em 3em;  /* отступы внутри ячеек */
+}
+
+th {
+    background-color: coral;  /* цвет заливки заголовка */
+}
